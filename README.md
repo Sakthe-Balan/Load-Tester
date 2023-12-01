@@ -4,7 +4,7 @@
 
 This project implements a distributed load testing system for web servers using Kafka as the communication service. The system consists of an Orchestrator node, Driver nodes, and a Target HTTP server. The Orchestrator node coordinates load tests by communicating with Driver nodes through Kafka topics. The system supports Tsunami and Avalanche testing, provides observability through metrics reporting, and is scalable to accommodate varying numbers of nodes.
 
-![Load Testing](images/load-testing.png)
+![Load Testing](load-testing.png)
 
 
 ## Prerequisites
